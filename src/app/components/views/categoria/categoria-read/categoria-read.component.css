@@ -9,7 +9,7 @@
 
 .title h1{
     font-size: 2rem;
-    color: rgb(218, 209, 209);
+   
     font-weight: 500;
 }
 
@@ -19,11 +19,9 @@ button{
 
 .table{
     width: 100%;
-    background-color: #4F4F4F;    
+     
 }
-th, td{
-    color: rgb(218, 209, 209);
-}
+
 
 .edit{
     color: yellowgreen;

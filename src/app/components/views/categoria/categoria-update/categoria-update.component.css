@@ -5,7 +5,7 @@ form{
 }
 
 h1{
-    color: rgb(218, 209, 209);
+    
     font-size: 2rem;
     font-weight: 500;
     margin-bottom: 3rem;
@@ -26,10 +26,6 @@ button{
     padding-left: 2rem;
     padding-right: 2rem;
 }
- input, textarea, ::placeholder{
-    color: aliceblue;
-}
-mat-label{
-    color: #b773dc;
-}
+
+
 

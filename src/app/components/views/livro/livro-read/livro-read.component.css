@@ -8,13 +8,7 @@ form{
     text-align: center
 }
 
-mat-card{
-    background-color: #4F4F4F;
-    color: white;
-}
-mat-card-subtitle{
-    color: white;
-}
+
 button{
     width: 100%;
 }
