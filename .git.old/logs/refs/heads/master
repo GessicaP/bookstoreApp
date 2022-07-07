@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 d87cc56815793d1ef9e442abba43e99c58f5ec11 Gessica <Gessica@Desktop-MTSTEUM> 1656521050 -0300	clone: from https://github.com/GessicaP/bookstore-front.git
+d87cc56815793d1ef9e442abba43e99c58f5ec11 138758af46f7ddf85e362d17c34b863462ea5a85 Gessica <Gessica@Desktop-MTSTEUM> 1656526010 -0300	commit: Ajustes no componente-read
+138758af46f7ddf85e362d17c34b863462ea5a85 29fd2ca2f5fc846a452ad4a2c369aee5636857e0 Gessica <Gessica@Desktop-MTSTEUM> 1656536367 -0300	commit: Metodo create implementado para categoria
+29fd2ca2f5fc846a452ad4a2c369aee5636857e0 8cf8ca7fd1bdafb32425876b3e445b5881c100ec Gessica <Gessica@Desktop-MTSTEUM> 1656933627 -0300	pull: Fast-forward
+8cf8ca7fd1bdafb32425876b3e445b5881c100ec a1f669f0ae21329062d2e2f82cb35b3f4cec4c7c Gessica <Gessica@Desktop-MTSTEUM> 1656940805 -0300	commit: Leitura de todos os livros por categoria implementado
+a1f669f0ae21329062d2e2f82cb35b3f4cec4c7c d4dd1f8e87feae87c01538d622c27d2047f19664 Gessica <Gessica@Desktop-MTSTEUM> 1656962041 -0300	commit: Update para Livro implementado.
+d4dd1f8e87feae87c01538d622c27d2047f19664 fdb99b090525abffa2c477b19570a0fb53c3fe2d Gessica <Gessica@Desktop-MTSTEUM> 1656964629 -0300	commit: Delete para livro implementado.
+fdb99b090525abffa2c477b19570a0fb53c3fe2d aeecbd541e242cbc74146cf0e23cad5c22b2d68a Gessica <Gessica@Desktop-MTSTEUM> 1656966967 -0300	commit: Read para livro implementado

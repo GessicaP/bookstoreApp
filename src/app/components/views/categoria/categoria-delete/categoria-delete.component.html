@@ -1,0 +1,17 @@
+<form action="">
+    <h1>DELETANDO CATEGORIA</h1>
+    <mat-form-field class="form">
+        <mat-label>Nome</mat-label>
+        <input [(ngModel)]="categoria.nome" type="text" matInput name="nome" placeholder="Ex: Computação" disabled >
+    </mat-form-field>
+    <mat-form-field class="form">
+        <mat-label>Descrição</mat-label>
+        <textarea [(ngModel)]="categoria.descricao" type="text" matInput name="descricao" placeholder="Ex: Livros de Computação" disabled ></textarea>
+    </mat-form-field>
+
+    <div class="buttons">
+        <button (click)="delete()" class="mat-elevation-z8" mat-raised-button color="primary">Deletar</button>
+        <button (click)="cancel()" class="mat-elevation-z8" mat-raised-button color="warn">Cancelar</button>
+
+    </div>
+</form>
